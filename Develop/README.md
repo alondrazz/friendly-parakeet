@@ -3,7 +3,7 @@
 
 ## Insallation
 The code to my github is- git@github.com:alondrazz/friendly-parakeet.git
-And the url is-
+And the url is- https://alondrazz.github.io/friendly-parakeet/
 
 ## Usage
 People can use this for whenever they're starting off and need a guide to help them set up a password generator.
